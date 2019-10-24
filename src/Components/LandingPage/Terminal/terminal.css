@@ -72,6 +72,8 @@
     border-top-right-radius: 20px;
     display: flex;
     padding-left: 10px;
+    cursor: default;
+    -webkit-user-select: none; 
 }
 
 .terminal_menu span {
