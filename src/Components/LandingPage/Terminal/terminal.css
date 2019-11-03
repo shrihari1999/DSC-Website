@@ -73,7 +73,7 @@
     display: flex;
     padding-left: 10px;
     cursor: default;
-    -webkit-user-select: none; 
+    user-select: none; 
 }
 
 .terminal_menu span {
