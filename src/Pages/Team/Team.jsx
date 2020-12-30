@@ -105,7 +105,7 @@ const Teams = () => {
         <main id="main-team">
           <section className="lead">
             <div>
-              <img src={data.lead.imgUrl} style={{ width: "150px" }} />
+              <img src={data.lead.imgUrl} style={{ width: "150px", height: "150px" }} />
               <h3>{data.lead.name}</h3>
               <p>{data.lead.role}</p>
             </div>
